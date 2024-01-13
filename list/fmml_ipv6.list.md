@@ -23,13 +23,13 @@
 | 17 | CCTV-16 奥林匹克 | [CCTV-16 奥林匹克](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8) |
 | 18 | CCTV-17 农业农村 | [CCTV-17 农业农村](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8) |
 | 19 | CCTV-16 奥林匹克 4K | [CCTV-16 奥林匹克 4K](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8) |
-| 20 | CCTV-4K 超高清 | [CCTV-4K 超高清](http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8) |
-| 21 | CCTV-8K 超高清 | [CCTV-8K 超高清](http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3) |
-| 22 | CHC动作电影 | [CHC动作电影](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8) |
-| 23 | CHC家庭影院 | [CHC家庭影院](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8) |
-| 24 | CHC高清电影 | [CHC高清电影](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8) |
-| 25 | 凤凰中文 | [凤凰中文](http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8) |
-| 26 | 凤凰资讯 | [凤凰资讯](http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8) |
+| 20 | CCTV-8K 超高清 | [CCTV-8K 超高清](http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3) |
+| 21 | CHC动作电影 | [CHC动作电影](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8) |
+| 22 | CHC家庭影院 | [CHC家庭影院](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8) |
+| 23 | CHC高清电影 | [CHC高清电影](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8) |
+| 24 | 凤凰中文 | [凤凰中文](http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8) |
+| 25 | 凤凰资讯 | [凤凰资讯](http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8) |
+| 26 | 凤凰香港 | [凤凰香港](http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8) |
 | 27 | 北京卫视 | [北京卫视](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8) |
 | 28 | 湖南卫视 | [湖南卫视](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8) |
 | 29 | 东方卫视 | [东方卫视](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8) |
@@ -127,7 +127,7 @@
 | 121 | 浙江民生休闲 | [浙江民生休闲](https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8) |
 | 122 | 浙江经济生活 | [浙江经济生活](https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8) |
 | 123 | 浙江钱江频道 | [浙江钱江频道](https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8) |
-| 124 | 陕西新闻资讯 | [陕西新闻资讯](http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8) |
+| 124 | 陕西新闻资讯 | [陕西新闻资讯](http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8) |
 | 125 | 陕西都市青春 | [陕西都市青春](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8) |
 | 126 | 陕西生活频道 | [陕西生活频道](http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8) |
 | 127 | 陕西影视频道 | [陕西影视频道](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8) |
@@ -185,4 +185,4 @@
 | 179 | 家有购物 | [家有购物](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8) |
 | 180 | 快乐购 | [快乐购](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8) |
 
-Updated at **Thu Jan 11 2024 16:04:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 13 2024 17:45:45 GMT+0000 (Coordinated Universal Time)**
