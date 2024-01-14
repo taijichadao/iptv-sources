@@ -63,7 +63,7 @@
 | 57 | [BD]And Prive | [BD And Prive](https://epg.pw/stream/c0d6ac6ec81ba96c3313b8e225a0d59f89eef7024672b641fb9c2a4f06cd4f53.ctv) |
 | 58 | [HD]ANIMALPLANET | [HD ANIMALPLANET](https://epg.pw/stream/482000d4b9c33580e311557fe6e24fcaafeb59a322be5b1e8f5375e2a9ad8d53.ctv) |
 | 59 | [VGA]animax卡通 | [VGA animax卡通](https://epg.pw/stream/756e371755dd94d6963615a5683f04780ba494c8b5d99933545f6790afabc660.ctv) |
-| 60 | [HD]ANIMAX. | [HD ANIMAX.](https://epg.pw/stream/e426dca00a5a70eeb4744094edbab0797446f7398de6adf56751da13cb135e70.ctv) |
+| 60 | [HD]ANIMAX. | [HD ANIMAX.](https://epg.pw/stream/67bad1d50057c86b11bdf33d03b7a0477b95f71fa4d815a4cdf5bcc9b80daf7d.ctv) |
 | 61 | [HD]Animax | [HD Animax](https://epg.pw/stream/e1e0321995ce0fad64ce25f8f2d8bfee36cbdb89b7362581fdc17cce18ca389f.ctv) |
 | 62 | [HD]anime all day | [HD anime all day](https://epg.pw/stream/24ed266eff555213de6e7f03deae8e658f45f667e21e1c25a74edb63681eea80.m3u8) |
 | 63 | [VGA]anime tv | [VGA anime tv](https://epg.pw/stream/1d6445e7f7a11a3b649007a9a6b3ebe3b85113eca7e9e886ecc4b1c1b6c40d9d.m3u8) |
@@ -264,7 +264,7 @@
 | 258 | [SD]kids station | [SD kids station](https://epg.pw/stream/c1330bb934380c867ba0be2cf0adb7a65849174d3fd10b50b89166c967f83f23.m3u8) |
 | 259 | [SD]kalsan tv (576p) | [SD kalsan tv (576p)](https://epg.pw/stream/c0699a8d39f5ed1b61a6951352ccfc925fe69058e8427741298702aed58fbc73.m3u8) |
 | 260 | [HD]kanal 26 | [HD kanal 26](https://epg.pw/stream/221588d3d9848ec699889f662f06cceb1c21e700c829e1ddd20dffe4ebeca471.m3u8) |
-| 261 | [HD]kanshi tv | [HD kanshi tv](https://epg.pw/stream/f5e4ddf58246f8571efff8a30724db9c6de3814c61b451abe38e2b3f2827bab5.m3u8) |
+| 261 | [BD]kanshi tv (720p) [not 24/7] | [BD kanshi tv (720p)  not 24/7](https://epg.pw/stream/930ca24695d8f5484e4a5f84f7cc1ad366787922f7c4d50810c7b12e89a347f5.m3u8) |
 | 262 | [BD]kiss kiss tv (1080p) | [BD kiss kiss tv (1080p)](https://epg.pw/stream/ebf89c56f153b0546895d09379391df83cb3ae118d515e36368373cadbceb463.m3u8) |
 | 263 | [VGA]kurd channel | [VGA kurd channel](https://epg.pw/stream/8b2e6939649131a44d118bf09bf6d262015cccee17b5e0b0b60484e244493f3d.m3u8) |
 | 264 | [HD]la7 | [HD la7](https://epg.pw/stream/742c005791b977adcb7bee49c2b7fe3f86eb690b317ec1a884697f0c35241fe7.m3u8) |
@@ -717,7 +717,7 @@
 | 711 | [VGA]france 24 english | [VGA france 24 english](https://epg.pw/stream/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8) |
 | 712 | [BD]franken fernsehen (nürnberg) (1080p) [not 24/7] | [BD franken fernsehen (nürnberg) (1080p)  not 24/7](https://epg.pw/stream/03e3845d295449e3499269a9e36eabbd65fc5e2b379e60852c713bad9b16b363.m3u8) |
 | 713 | [BD]freedom (freeдom) (uatv) (720p) | [BD freedom (freeдom) (uatv) (720p)](https://epg.pw/stream/f158ecf6a3a28bcf51aca7fc4273121ede59c16db76cb1d5b5dfbf7fe9f24297.m3u8) |
-| 714 | [HD]frenchlover | [HD frenchlover](https://epg.pw/stream/5a26b68c75fb825addf8df0264db67729fe4d464a4101b55ebaa4ebd6c9d8f50.m3u8) |
+| 714 | [HD]french lover | [HD french lover](https://epg.pw/stream/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8) |
 | 715 | [HD]fresh (720p) | [HD fresh (720p)](https://epg.pw/stream/b6b92f839830c390d9993d50373c9c129f5ca5df860a215269e5e4c611fffea8.m3u8) |
 | 716 | [HD]galicia tv américa (720p) | [HD galicia tv américa (720p)](https://epg.pw/stream/790404d0677d600372644f616b09b9d86812cd019c4922a20b14fc4710d20925.m3u8) |
 | 717 | [HD]game show central | [HD game show central](https://epg.pw/stream/967b5fce1469aed98c1de217ebf7d9bfb8947caf9a3803d320d55295cff04c4c.m3u8) |
@@ -1690,4 +1690,4 @@
 | 1684 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1685 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sun Jan 14 2024 14:15:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 14 2024 16:20:29 GMT+0000 (Coordinated Universal Time)**
