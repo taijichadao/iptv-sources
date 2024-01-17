@@ -188,7 +188,7 @@
 | 182 | [HD]DISCOVERYSCIENCE | epg.pw | <https://epg.pw/stream/d6f4c5edf62f0f821784e9efa65e00d5f1f232c995adb946dee27293ae64d4d4.ctv> |
 | 183 | [HD]DISNEY XD | epg.pw | <https://epg.pw/stream/2e76be8008d92ccb51c534b98bc7a7ee101a11bb7c10b995dc983c07d9818cd4.ctv> |
 | 184 | [HD]DISNEYJR | epg.pw | <https://epg.pw/stream/504f3e8099a8c4ff7de6fc597b4ecee0aece5d476868c36e11616d7ec7aecb99.ctv> |
-| 185 | [HD]DISNEYJUNIOR | epg.pw | <https://epg.pw/stream/298875f543f293e158a0a828a7a96460399fd02bc46da9e3ef8d2dca0c50f695.ctv> |
+| 185 | [HD]DISNEYJUNIOR | epg.pw | <https://epg.pw/stream/4ab65ceb60155f34763e025505042a446b8a5dcacea60702fa8190f5b2f7bc83.ctv> |
 | 186 | [HD]DMAX | epg.pw | <https://epg.pw/stream/a26ee6f4232ba8382ab4ffd3dfe50278e06d15af60af7a5370a452e96c752a8f.ctv> |
 | 187 | [SD]da vinci | epg.pw | <https://epg.pw/stream/5ab8582de6e170a3fba0e34d7f4b5fb597e5bb23bad8618e86a1a8468f6ce16a.m3u8> |
 | 188 | [BD]dijlah tv hd | epg.pw | <https://epg.pw/stream/c68e7dbaaafc55448e76156d9cc024b9e0301145fb06c48ceb1c455071153d1d.ctv> |
@@ -1677,4 +1677,4 @@
 | 1671 | [VGA]龙祥电影台 | epg.pw | <https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv> |
 | 1672 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Wed Jan 17 2024 14:16:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 17 2024 16:22:40 GMT+0000 (Coordinated Universal Time)**

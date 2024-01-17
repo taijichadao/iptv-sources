@@ -1547,7 +1547,7 @@ Cartoon,#genre#
 [VGA]concord tv (concord ca) (720p),https://epg.pw/stream/fbc0730f248ec08e2883e834a51925773d44af6431c4cb393363edad72b0b1ec.m3u8
 [HD]DISNEY XD,https://epg.pw/stream/2e76be8008d92ccb51c534b98bc7a7ee101a11bb7c10b995dc983c07d9818cd4.ctv
 [HD]DISNEYJR,https://epg.pw/stream/504f3e8099a8c4ff7de6fc597b4ecee0aece5d476868c36e11616d7ec7aecb99.ctv
-[HD]DISNEYJUNIOR,https://epg.pw/stream/298875f543f293e158a0a828a7a96460399fd02bc46da9e3ef8d2dca0c50f695.ctv
+[HD]DISNEYJUNIOR,https://epg.pw/stream/4ab65ceb60155f34763e025505042a446b8a5dcacea60702fa8190f5b2f7bc83.ctv
 [HD]DISNEY CHANNEL,https://epg.pw/stream/6a24449bcb11e6578edef051853ed59b7bab3179992fe83315d8d74d381586d4.ctv
 [HD]DISNEY XD,https://epg.pw/stream/c0f982b89302be5a91d7b735598cef0a48e2481a2c19417468e223dc09d5652f.ctv
 [HD]dreamworks,https://epg.pw/stream/9f4c5ca9ec157beada3427c5989175419b1f9b810823128a83b1e32261627215.m3u8
@@ -11143,7 +11143,7 @@ Fox新闻,http://38.96.178.201:80/live/FOXHD/index.m3u8
 历史频道,http://38.96.178.201:80/live/History/index.m3u8
 TNT,http://38.96.178.201:80/live/TNTHD/index.m3u8
 USA,http://38.96.178.201:80/live/USA/index.m3u8
-CNN新闻,http://38.96.178.201:80/live/Discovery/index.m3u8
+NBA,http://38.96.178.201/live/NBA/index.m3u8
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 FoodNetwork,http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 ESPN新闻,http://38.96.178.201:80/live/ESPNews/index.m3u8
