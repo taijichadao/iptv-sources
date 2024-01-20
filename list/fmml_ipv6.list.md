@@ -189,4 +189,4 @@
 | 183 | 家有购物 | [2409:8087:1e03:21::2]:6060 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8> |
 | 184 | 快乐购 | [2409:8087:1e03:21::2]:6060 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8> |
 
-Updated at **Sat Jan 20 2024 12:29:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 20 2024 14:14:27 GMT+0000 (Coordinated Universal Time)**
