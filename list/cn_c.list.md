@@ -100,7 +100,7 @@
 | 94 | [SD]河北影视 | epg.pw | <https://epg.pw/stream/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8> |
 | 95 | [SD]河北影视剧 | epg.pw | <https://epg.pw/stream/c052b9f414bbbf9c00616f9184da6d11fa730d903171e2ae8d1ef1b80538f600.m3u8> |
 | 96 | [SD]河北农民 | epg.pw | <https://epg.pw/stream/77d583a3ce92e660a3aae8d721e57456356ecb45396a4f4c979738dc2832bfd1.m3u8> |
-| 97 | [SD]浙江平湖新闻综合 | epg.pw | <https://epg.pw/stream/2196c2cf1a0af5224542f776d0bce880acf323b215d4a8687b8f70bf80fed369.m3u8> |
+| 97 | [HD]浙江平湖新闻综合 | epg.pw | <https://epg.pw/stream/2196c2cf1a0af5224542f776d0bce880acf323b215d4a8687b8f70bf80fed369.m3u8> |
 | 98 | [SD]浙江绍兴公共 | epg.pw | <https://epg.pw/stream/0ec806bda9af17c82743c04f02f3f4ec7794cccd32cdc63b6633ddfbc20bdc44.m3u8> |
 | 99 | [BD]浙江国际 | epg.pw | <https://epg.pw/stream/04f8e81b2de97b2248ae306a5154c7623036b7698fcab51d564fd0ff8a31c564.m3u8> |
 | 100 | [BD]浙江少儿 | epg.pw | <https://epg.pw/stream/61763493836696939da31f5856221e08038a6e814dc1fe983cd0d335b284104e.m3u8> |
@@ -147,4 +147,4 @@
 | 141 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8> |
 | 142 | [VGA]黑龙江新闻 | epg.pw | <https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8> |
 
-Updated at **Sat Jan 20 2024 10:16:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 20 2024 12:29:43 GMT+0000 (Coordinated Universal Time)**
