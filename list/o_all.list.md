@@ -4380,4 +4380,4 @@
 | 4374 | Херсон Плюс (576p) | 46.175.163.130 | <http://46.175.163.130/ks_plus/index.m3u8> |
 | 4375 | Առաջին ալիք (1080p) | amtv1.livestreamingcdn.com | <https://amtv1.livestreamingcdn.com/am2abr/index.m3u8> |
 
-Updated at **Sat Jan 20 2024 08:20:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 20 2024 10:16:32 GMT+0000 (Coordinated Universal Time)**
