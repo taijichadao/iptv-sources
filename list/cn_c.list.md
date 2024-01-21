@@ -21,7 +21,7 @@
 | 15 | [BD]newtv超级电影[ipv6] | epg.pw | <https://epg.pw/stream/38f48223d9233cdb32e6aa34a1e80835aaed997071bcdea5b4325f92697148fe.m3u8> |
 | 16 | [BD]七彩戏剧 8m | epg.pw | <https://epg.pw/stream/087943e13b386f3d4c693b791bd8192d0a6dfad55d58a12a2f73b2e6b8a86830.ctv> |
 | 17 | [SD]三沙卫视 | epg.pw | <https://epg.pw/stream/fc49c564c870b78b1a3655d913ca8a4fe4e31f58db2da34caedc0761a3e51256.ctv> |
-| 18 | [BD]上海新闻综合[ipv6] | epg.pw | <https://epg.pw/stream/bb72de74a8ef1f4f2324994e25dc928a4a36232925487ee8c3b53f2be462df83.m3u8> |
+| 18 | [BD]上虞新闻综合 | epg.pw | <https://epg.pw/stream/c263e1828b4fb93d5bff50bf91136b93920a674c1bd19ccf1e4922baecfc3acc.m3u8> |
 | 19 | [BD]五星体育 8m | epg.pw | <https://epg.pw/stream/9fcb9f33c2c7ec8c37d4315449590fdddb354cee2a09ed56037cbdc52815aa1b.ctv> |
 | 20 | [SD]优漫卡通 | epg.pw | <https://epg.pw/stream/1b4155ed8113b73f664d947a024a12acce9b5d43d0911fe05bfa051640987666.m3u8> |
 | 21 | [BD]内蒙古农牧 | epg.pw | <https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8> |
@@ -147,4 +147,4 @@
 | 141 | [BD]黑龙江都市[ipv6] | epg.pw | <https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8> |
 | 142 | [VGA]黑龙江新闻 | epg.pw | <https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8> |
 
-Updated at **Sun Jan 21 2024 12:30:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 21 2024 14:14:52 GMT+0000 (Coordinated Universal Time)**
