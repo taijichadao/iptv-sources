@@ -5,7 +5,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]brtv卡酷少儿 | epg.pw | <https://epg.pw/stream/87c7d64450a0d80c85933b6caaea95a315accc0d1c765938e6b24b61f71b20ca.ctv> |
-| 2 | [BD]cctv1 | epg.pw | <https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8> |
+| 2 | [BD]cctv1 8m | epg.pw | <https://epg.pw/stream/9801cfb8023a876f7fc760b6f139e355de7f0cc9575c6a329d22c60335c0de85.ctv> |
 | 3 | [BD]cctv10 | epg.pw | <https://epg.pw/stream/6ef5ffbb8c7555a1beee3d70767d5f42614470f8a2b7344cc478e75a0fe444a1.m3u8> |
 | 4 | [VGA]cctv11 | epg.pw | <https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8> |
 | 5 | [BD]cctv12 | epg.pw | <https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8> |
@@ -157,4 +157,4 @@
 | 151 | [SD]黑龙江哈尔滨新闻 | epg.pw | <https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8> |
 | 152 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
 
-Updated at **Sun Jan 21 2024 02:33:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 21 2024 04:19:52 GMT+0000 (Coordinated Universal Time)**
