@@ -8,9 +8,9 @@
 | 2 | CCTV-2 | IPv6 直链 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8> |
 | 3 | CCTV-3 | IPv6 直链 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8> |
 | 4 | CCTV-4 | IPv6 直链 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8> |
-| 5 | CCTV-5 | IPv6 直链 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8?> |
+| 5 | CCTV-5 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8> |
 | 6 | CCTV-5+ | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
-| 7 | CCTV-6 | IPv6 直链 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8> |
+| 7 | CCTV-6 | 中国移动江苏 | <http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8> |
 | 8 | CCTV-7 | IPv6 直链 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8> |
 | 9 | CCTV-8 | IPv6 直链 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8> |
 | 10 | CCTV-9 | IPv6 直链 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8> |
@@ -125,4 +125,4 @@
 | 119 | 东北热剧 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8> |
 | 120 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
 
-Updated at **Sun Jan 21 2024 14:14:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 21 2024 16:20:40 GMT+0000 (Coordinated Universal Time)**
