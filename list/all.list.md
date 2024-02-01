@@ -1676,4 +1676,4 @@
 | 1670 | [VGA]龙祥电影台 | epg.pw | <https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv> |
 | 1671 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Thu Feb 01 2024 08:16:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 01 2024 10:14:40 GMT+0000 (Coordinated Universal Time)**
