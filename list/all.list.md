@@ -318,7 +318,7 @@
 | 312 | [VGA]paramount network | epg.pw | <https://epg.pw/stream/d32cffa54f4df8aa05f1f3450cc1cadd297cf81fec0d94850df7b4c3fbd7e921.m3u8> |
 | 313 | [HD]tvb pearl | epg.pw | <https://epg.pw/stream/3ce97e80d81f8f3a2626acb024afe18285832eb51c609946e365a9974ef74cba.ctv> |
 | 314 | [HD]ช่อง premier sports | epg.pw | <https://epg.pw/stream/0e6b899e5cb7a68f7b92c76089f74d5ac60e6538adb44a94a16ea172f0847eab.m3u8> |
-| 315 | [HD]RCTI | epg.pw | <https://epg.pw/stream/df951272a6c9de47116daa546e3e649ca02098edacbb78a5a4c24650b3c62ade.ctv> |
+| 315 | [HD]RCTI | epg.pw | <https://epg.pw/stream/0ee906b7528b9ee0f057c3f424cbf20f253c5fcefb846bfddf0fcf3596ae265a.ctv> |
 | 316 | [BD]bfm tv (1080p) | epg.pw | <https://epg.pw/stream/c0f0b599e3f6a3a91aecf74772ea8e71f788f252280620804d7e8a7ade506740.m3u8> |
 | 317 | [BD]rmc découverte | epg.pw | <https://epg.pw/stream/a1d5a2dc75f5fa3d50ff301d7c24e72fac38a0e06769b4ccd6afe4d12697718d.m3u8> |
 | 318 | [BD]rthk31 | epg.pw | <https://epg.pw/stream/8722fa716c27f2cb06b7e5e358bfeff5217167a47018364fcf05567da8f571e5.ctv> |
@@ -1023,7 +1023,7 @@
 | 1017 | [VGA]rts 2 | epg.pw | <https://epg.pw/stream/acbc15e1bc0b7e33c27c9d8ac9d83b22f74e7f736b2595a8d3f2e9b5b077f677.m3u8> |
 | 1018 | [BD]rtv | epg.pw | <https://epg.pw/stream/264bed2f4b57fed2a0038ee4e241f2fbb12b59071a97fda4b605c7997923ceb3.m3u8> |
 | 1019 | [BD]rtv noord | epg.pw | <https://epg.pw/stream/9cb20d18901ac00a148a8557f617d86b203e824bef0fa8112b3cc8f92eedda47.m3u8> |
-| 1020 | [VGA]rtv rijnmond (1080p) | epg.pw | <https://epg.pw/stream/e53d9f049ccb9379e4c9f3b5b6823eb58694714c0a1515e126f0cb918ae190c7.m3u8> |
+| 1020 | [BD]rtv rijnmond extra | epg.pw | <https://epg.pw/stream/27e237df891718e3cc34ca38b6308d860717ab1ae287fc95f02b24b16f7a9af6.m3u8> |
 | 1021 | [HD]rtve | epg.pw | <https://epg.pw/stream/e69cd00959837b4ba96b82ed7ae989e1ee742f321073e6a180a7e11dfd563cbe.m3u8> |
 | 1022 | [SD]ru tv | epg.pw | <https://epg.pw/stream/5375d7c43ac09dd4dbb4629863f5ce1ae3f0af3454650c855d1f9ba9be90da3f.m3u8> |
 | 1023 | [BD]rudaw tv | epg.pw | <https://epg.pw/stream/220d1a855c9f6356eb10d8b7568a291f209d76dfa2ebeb46e32fbd214ccfe19d.m3u8> |
@@ -1688,4 +1688,4 @@
 | 1682 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1683 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Wed Feb 07 2024 14:12:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 07 2024 16:17:56 GMT+0000 (Coordinated Universal Time)**
