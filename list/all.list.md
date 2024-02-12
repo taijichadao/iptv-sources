@@ -243,7 +243,7 @@
 | 237 | [HD]jpm tv | epg.pw | <https://epg.pw/stream/31a73765cf0acc58d1d328c29ae1c00728846285d4d5b92557d9c6b6e5c0bbf6.m3u8> |
 | 238 | [SD]kay tv | epg.pw | <https://epg.pw/stream/b0eeb6ba64b55fbbd9e8b590ee29a7aa5dd16a6c3f51aa0fd5fba18e879c17b3.m3u8> |
 | 239 | [SD]kids station | epg.pw | <https://epg.pw/stream/c1330bb934380c867ba0be2cf0adb7a65849174d3fd10b50b89166c967f83f23.m3u8> |
-| 240 | [SD]kalsan tv (576p) | epg.pw | <https://epg.pw/stream/c0699a8d39f5ed1b61a6951352ccfc925fe69058e8427741298702aed58fbc73.m3u8> |
+| 240 | [SD]kalsan tv | epg.pw | <https://epg.pw/stream/d20815ed7699fd0fc734b46817e30381bd3b092b0859256941e5fb142ede73bd.m3u8> |
 | 241 | [HD]kanal 26 | epg.pw | <https://epg.pw/stream/221588d3d9848ec699889f662f06cceb1c21e700c829e1ddd20dffe4ebeca471.m3u8> |
 | 242 | [BD]kanshi tv (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/930ca24695d8f5484e4a5f84f7cc1ad366787922f7c4d50810c7b12e89a347f5.m3u8> |
 | 243 | [BD]kiss kiss tv (1080p) | epg.pw | <https://epg.pw/stream/ebf89c56f153b0546895d09379391df83cb3ae118d515e36368373cadbceb463.m3u8> |
@@ -262,7 +262,7 @@
 | 256 | [HD]MOMO2台 | epg.pw | <https://epg.pw/stream/e2e650f547d3d9c89976ba9a7278725edf29c444dce89ac455cb43563ca543c3.m3u8> |
 | 257 | [HD]momo购物1 | epg.pw | <https://epg.pw/stream/6469475656d65dd7311a58feae5d6512bb019b2fb4ee492e572582b94e7acc62.m3u8> |
 | 258 | [HD]momo购物2 | epg.pw | <https://epg.pw/stream/b658e772883312717d1b7aee42b94fdfa284cb6a7021dfdbebdcc2ca162ed23f.m3u8> |
-| 259 | [SD]MTV BASE | epg.pw | <https://epg.pw/stream/327aeaedc52fe587e6e28a2ece527b0d43e30c0bda262db4538cb49ffeb9adc7.ctv> |
+| 259 | [SD]MTV BASE | epg.pw | <https://epg.pw/stream/f7f1b62288c9f28bb99937563a4210e262c63a05a00a17d9d93540be0867ebde.ctv> |
 | 260 | [SD]mtv japan | epg.pw | <https://epg.pw/stream/c098b77262d3d60ed167dec2e129ce1f34eea5f9bfe8981bd3ff1d7f938f91d5.m3u8> |
 | 261 | [SD]MTV ROCKS | epg.pw | <https://epg.pw/stream/7937a8ee92fd8d4dfcf7ba552ea6b26fa132fb9ca178b460895a41432c8ee726.ctv> |
 | 262 | [BD]MTVHD | epg.pw | <https://epg.pw/stream/caf6c4cbac87437a41c19dc838da17a3a3e52989733b4ccb39472d16d49cd8e7.ctv> |
@@ -289,7 +289,7 @@
 | 283 | [BD]NHK BSP4K | epg.pw | <https://epg.pw/stream/cc8ac6c9ab845a3eb79d64cab1160c9bd4f728fa1eb51ea55239141aa49953c7.m3u8> |
 | 284 | [SD]nhk e | epg.pw | <https://epg.pw/stream/acbfe60565f05de278fc8bac630f3a02741e84176dfa39577476f84f3eee4bea.m3u8> |
 | 285 | [BD][日本]nhkworldjapan(720p) | epg.pw | <https://epg.pw/stream/43dbb8d242d38ff4b85fffdd18c1f1b37206a864569ae31e788ff76ce703ef75.m3u8> |
-| 286 | [HD]NICKELODEON | epg.pw | <https://epg.pw/stream/419d7cb5715494a23e54517591c80b0e09903c7b20a874c777ef37fd4bbada5f.ctv> |
+| 286 | [HD]NICKELODEON | epg.pw | <https://epg.pw/stream/d1bc7e223569ae98ce307a104bf0099955d1046f063505155ee8ecf8a2897ab4.ctv> |
 | 287 | [HD]NICKJR.USA | epg.pw | <https://epg.pw/stream/e1ac5eaadaf1fefc2b6357f20037a8e5c35cecdd5631bffec56aac4a10f2ee9e.ctv> |
 | 288 | [VGA]now新闻台 | epg.pw | <https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.ctv> |
 | 289 | [HD]NTV NEWS 24 | epg.pw | <https://epg.pw/stream/293259a13176bce43dc1ebe4fa6c1edbf5967ab22130996ea34a151030c4cc32.m3u8> |
@@ -713,7 +713,7 @@
 | 707 | [SD]france 24 french | epg.pw | <https://epg.pw/stream/0d8c0fb4d80987b70b107b9c3b2a95deace4aff2d3dfa3dc62866db9ac8decd2.ctv> |
 | 708 | [BD]franken fernsehen | epg.pw | <https://epg.pw/stream/82b2f926f6c8c31c749af6ec5e790ca1d7ba24521960a246fd0fb86339bb8d20.m3u8> |
 | 709 | [VGA]freedom (freeдom) (uatv) (720p) | epg.pw | <https://epg.pw/stream/7afd9e457ff760bf73b40d866e27ae281b27f6cda3ea37e3d3fe44341abf80e9.m3u8> |
-| 710 | [HD]frenchlover | epg.pw | <https://epg.pw/stream/5a26b68c75fb825addf8df0264db67729fe4d464a4101b55ebaa4ebd6c9d8f50.m3u8> |
+| 710 | [HD]french lover | epg.pw | <https://epg.pw/stream/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8> |
 | 711 | [HD]fresh (720p) | epg.pw | <https://epg.pw/stream/b6b92f839830c390d9993d50373c9c129f5ca5df860a215269e5e4c611fffea8.m3u8> |
 | 712 | [HD]ftv | epg.pw | <https://epg.pw/stream/00d25df75bb592b225d06aad88a657603241eca0997cbbbdb463cd373e29a970.m3u8> |
 | 713 | [HD]fx hd | epg.pw | <https://epg.pw/stream/679b4cfa11d38fc35c34904274d91c20570dce914b3cb9f79b1c180f70510f0e.ctv> |
@@ -1649,4 +1649,4 @@
 | 1643 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1644 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Mon Feb 12 2024 14:12:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 12 2024 16:17:35 GMT+0000 (Coordinated Universal Time)**
