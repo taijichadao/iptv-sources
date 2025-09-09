@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**
+# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -11,4 +11,4 @@
 | 5 | 重庆影视 | IPv4 直链 | <http://27.8.233.159:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 6 | 重庆都市 | IPv4 直链 | <http://27.8.233.159:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Tue Sep 09 2025 06:28:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 09 2025 08:26:34 GMT+0000 (Coordinated Universal Time)**
