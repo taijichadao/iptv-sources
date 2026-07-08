@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -376,4 +376,4 @@
 | 370 | CGTN Spanish (720p) | IPv4 直链 | <http://45.165.82.19/test/index.m3u8> |
 | 371 | CND Film Middle School Channel | live-play.zxstv.com.cn | <http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8> |
 
-Updated at **Wed Jul 08 2026 02:42:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 08 2026 06:27:44 GMT+0000 (Coordinated Universal Time)**
