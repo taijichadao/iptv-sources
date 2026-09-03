@@ -1113,8 +1113,6 @@ rtmp://f13h.mine.nu/sat/tv721
 https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="Generic",[SD]翡翠
 https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
-#EXTINF:-1 tvg-name="台视HD" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/29/20150929121750759037_14.jpg" group-title="News",[BD]台视
-https://stream1.freetv.fun/5f1647f69faf035a2edf66cf6a0c119ea2ce317c155073f842dd4661b72cec9f.ctv
 #EXTINF:-1 tvg-name="台视新闻台" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/22/20161122123940121042_91.png" group-title="News",[BD]台视新闻
 https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.ctv
 #EXTINF:-1 tvg-name="荆州新闻综合" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/10/31/large/20221031230159254376_46.jpg" group-title="News",[BD]荆门新闻综合

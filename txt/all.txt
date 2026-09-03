@@ -106,7 +106,6 @@ News,#genre#
 [BD]重庆|江津新闻综合,https://stream1.freetv.fun/48e8e8d0fc6a429f90921269888907d31e377c22e5fc3018702e6a9762873a42.m3u8
 [VGA]上海第一财经,https://stream1.freetv.fun/2f27b601604d0daf4f134d21b1f06cd8853f0f6eecdfe11994621aff0564d791.ctv
 [SD]绍兴新闻,https://stream1.freetv.fun/3ebead7dcef07f7ea24dbdf1f24299de2dec8ddecf20737e5a00dce01b26cc3c.m3u8
-[BD]台视,https://stream1.freetv.fun/5f1647f69faf035a2edf66cf6a0c119ea2ce317c155073f842dd4661b72cec9f.ctv
 [BD]台视新闻,https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.ctv
 [BD]荆门新闻综合,https://stream1.freetv.fun/93151160c381a034f6cf7e560a6fa981282baea3f54a177ee39ec6c5222f5f01.m3u8
 [HD]华视新闻,https://stream1.freetv.fun/e159b93114a44d525a361167a5d74a614b6cc976f88913dcb6613aaac886dd67.m3u8
